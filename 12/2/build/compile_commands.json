@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/vscodeCode/cprimer/12/2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\2.dir\\main.cpp.obj -c D:\\vscodeCode\\cprimer\\12\\2\\main.cpp",
+  "file": "D:/vscodeCode/cprimer/12/2/main.cpp",
+  "output": "CMakeFiles/2.dir/main.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/cprimer/12/2/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\2.dir\\string1.cpp.obj -c D:\\vscodeCode\\cprimer\\12\\2\\string1.cpp",
+  "file": "D:/vscodeCode/cprimer/12/2/string1.cpp",
+  "output": "CMakeFiles/2.dir/string1.cpp.obj"
+}
+]

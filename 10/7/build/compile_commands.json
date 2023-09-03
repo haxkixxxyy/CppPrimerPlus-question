@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/vscodeCode/cprimer/10/7/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\imaginary.dir\\imaginary.cpp.obj -c D:\\vscodeCode\\cprimer\\10\\7\\imaginary.cpp",
+  "file": "D:/vscodeCode/cprimer/10/7/imaginary.cpp",
+  "output": "CMakeFiles/imaginary.dir/imaginary.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/cprimer/10/7/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\imaginary.dir\\main.cpp.obj -c D:\\vscodeCode\\cprimer\\10\\7\\main.cpp",
+  "file": "D:/vscodeCode/cprimer/10/7/main.cpp",
+  "output": "CMakeFiles/imaginary.dir/main.cpp.obj"
+}
+]

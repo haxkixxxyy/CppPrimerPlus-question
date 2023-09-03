@@ -1,0 +1,14 @@
+[
+{
+  "directory": "D:/vscodeCode/cprimer/13/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\13.dir\\cd.cpp.obj -c D:\\vscodeCode\\cprimer\\13\\cd.cpp",
+  "file": "D:/vscodeCode/cprimer/13/cd.cpp",
+  "output": "CMakeFiles/13.dir/cd.cpp.obj"
+},
+{
+  "directory": "D:/vscodeCode/cprimer/13/build",
+  "command": "C:\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\13.dir\\main.cpp.obj -c D:\\vscodeCode\\cprimer\\13\\main.cpp",
+  "file": "D:/vscodeCode/cprimer/13/main.cpp",
+  "output": "CMakeFiles/13.dir/main.cpp.obj"
+}
+]
